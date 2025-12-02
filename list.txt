@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-257-NguyenLuongPhuGia
-=======
 257155-NguyenKhanhDuy
 257154-HoangManhHa
 257159-NguyenNgocBaoThien
 257157-NguyenThanhTai
 257158-ToMinhNhat
->>>>>>> 5738fe4516bf6f1fd30605c7bd956e30ebee6e77
+257156-NguyenLuongPhuGia
